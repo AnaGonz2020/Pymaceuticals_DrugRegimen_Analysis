@@ -1,5 +1,5 @@
 # Module 5 Challenge
-In this Repository, you will find the completed Matplotlib Challenge 
+In this Repository, you will find the completed Module 5 - Matplotlib Challenge 
 
 # Instructions
 This assignment is broken down into the following tasks:
